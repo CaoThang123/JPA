@@ -15,5 +15,8 @@
 	<form action="${pageContext.request.contextPath}/videos" method="get">
 		<input type="submit" value="Xem ListVideo">
 	</form>
+	<form action="${pageContext.request.contextPath}/users" method="get">
+		<input type="submit" value="Xem ListUser">
+	</form>
 </body>
 </html>
